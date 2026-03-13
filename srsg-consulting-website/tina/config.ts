@@ -6,16 +6,14 @@ const branch =
   process.env.HEAD ||
   "main";
 
-const isLocal = process.env.TINA_PUBLIC_IS_LOCAL === "true";
-
 export default defineConfig({
   branch,
-  ...(isLocal
-    ? {}
-    : {
-        clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
-        token: process.env.TINA_TOKEN,
-      }),
+  clientId:
+    process.env.NEXT_PUBLIC_TINA_CLIENT_ID ??
+    "a42ffdb3-2845-4448-8513-51edfe116a74",
+  token:
+    process.env.TINA_TOKEN ??
+    "d117ac162e3ca754e748f618199a621547044e80",
   build: {
     outputFolder: "admin",
     publicFolder: "public",
