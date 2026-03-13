@@ -1,0 +1,13 @@
+--- Migration Summary ---
+Pages migrated: 13
+Blog Posts migrated: 12
+
+--- Referenced Images (To Upload Manually) ---
+Found 7 unique image references.
+https://srsgconsulting.com/wp-content/uploads/2025/02/Compliance.jpg
+https://srsgconsulting.com/wp-content/uploads/2025/02/EPFO-1024x572.png
+https://srsgconsulting.com/wp-content/uploads/2025/02/ESI-1024x572.png
+https://srsgconsulting.com/wp-content/uploads/2025/02/Factory-employees.jpg
+https://srsgconsulting.com/wp-content/uploads/2025/02/DSC.jpg
+https://srsgconsulting.com/wp-content/uploads/2025/02/Digital-Marketing.jpg
+https://srsgconsulting.com/wp-content/uploads/elementor/thumbs/businesspeople-brainstorming-in-a-meeting-QFBQ6PS-r1jf72prqvuqrcqp2bmwrnfqv64ni2x663q41kgx0o.jpg
